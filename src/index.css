@@ -1,3 +1,19 @@
+/* 後續完成元件可以撐住整個畫面 */
+html,
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  width: 100%;
+}
+
+#root{
+  height: 100%;
+  width: 100%;
+}
+
+/* ------------------------- */
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
