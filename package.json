@@ -25,7 +25,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d build -r https://ehrenChenEJ@github.com/ehrenChenEJ/realtime-weather-app.git"
   },
   "eslintConfig": {
     "extends": [
